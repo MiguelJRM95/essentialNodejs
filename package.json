@@ -1,0 +1,15 @@
+{
+  "name": "prueba1",
+  "version": "1.0.0",
+  "description": "node learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lanzar": "npm audit && node app.js"
+  },
+  "author": "miguel",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
